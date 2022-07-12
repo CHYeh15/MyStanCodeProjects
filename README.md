@@ -18,5 +18,5 @@ watch my *[DEMO_VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * python semantics & syntax
 * [name_searching_system](https://github.com/CHYeh15/MyStanCodeProjects/tree/main/MyStanCode_projects/name_searching_system)
   * python semantics & syntax
-* [sierpinski](https://github.com/CHYeh15/MyStanCodeProjects/tree/main/MyStanCode_projects/sierpinski)
+* [sierpinski](https://github.com/CHYeh15/MyStanCodeProjects/blob/main/MyStanCode_projects/sierpinski/sierpinski.py)
   * python semantics & syntax
